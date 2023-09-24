@@ -1,0 +1,59 @@
+a,
+.btn,
+.btn.btn2,
+.main-heading,
+
+.main-holder .txt-holder h3,
+.blog-sec .post-text h3,
+#header .top-nav .mail:hover,
+.portfolio-sec .col .heading,
+.testimonials-sec .blockquote,
+.feature-sec .support-list li .fa,
+.main-holder .tabset .active .icon,
+.feature-sec .tabset .active .icon,
+.counter-sec .counter-holder .count,
+
+.contact-sec .contact-list a:hover,
+.panel-group .panel-heading h4 a .fa,
+.portfolio-sec .filter-list .active a,
+.contact-sec .contact-list li:hover .icon,
+.portfolio-sec .col .over .icon:hover {
+    color: #fdf4dc;
+}
+
+#nav ul a:hover,
+#nav ul .anchor-active a,
+.main-holder .tabset .active .icon,
+.feature-sec .tabset .active .icon,
+.main-holder .tabset .active .title,
+.feature-sec .tabset .active .title,
+#back-top:hover,
+#footer p a:hover,
+.social-network a:hover,
+.blog-sec .post-nav a:hover,
+#footer .social-network a:hover,
+
+.portfolio-sec .filter-list a:hover,
+.main-holder .tabset a:hover .icon,
+.feature-sec .tabset a:hover .icon,
+.main-holder .tabset a:hover .title,
+.feature-sec .tabset a:hover .title,
+.panel-group .panel-heading h4 a:hover,
+.team-sec .team .social-network a:hover,
+.main-slider .slick-prev:hover:before,
+.main-slider .slick-next:hover:before {
+    color: #6f2da8;
+}
+
+
+.btn:hover,
+#nav ul a:before,
+.testimonials-slider .slick-dots .slick-active,
+.feature-sec .tabset a:before,
+.main-holder .progress-bar .bar {
+  background: #533a71; }
+
+.btn,
+.contact-form .form-control:focus,
+.contact-form textarea:focus {
+  border-color: #a799b7; }
